@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Meu Portfólio</string>
+    <string name="txt_nameUser">Guilherme Santos</string>
+    <string name="btn_projects">Projetos</string>
+    <string name="btn_contact">Contato</string>
+    <string name="title_toolbar_contacts">Contato</string>
+    <string name="title_toolbar_projects">Projetos</string>
+    <string name="txt_phone">+55(13)988241531</string>
+    <string name="txt_email">guimoreira.santos02@gmail.com</string>
+    <string name="txt_gpa">Caluladora de Notas</string>
+    <string name="txt_pg">Gerador de Senhas</string>
+    <string name="txt_button_personal_projects">Detalhaes do Projeto</string>
+    <string name="txt_aboutMe">
+        <b>Nome Completo:</b> Guilherme Santos ✌️✌️
+
+        \n\n
+        <b>Descrição:</b>
+        \n
+        Sou um desenvolvedor Android iniciante 📱, com muito entusiasmo por criar experiências digitais inovadoras 🌐. Com cerca de seis meses de experiência, trago uma curiosidade constante e muita vontade de aprender sobre o ecossistema Android, sempre buscando melhorar minhas habilidades técnicas 🚀.
+
+        \n\n
+        <b>Habilidades:</b>
+        \n\n
+        <font color='#FF0000'><b>Desenvolvimento Android:</b></font> Com foco em Kotlin, estou construindo uma base sólida no desenvolvimento Android nativo, visando criar aplicativos modernos, funcionais e eficientes 💡📲.
+
+        \n\n
+        <font color='#FF0000'><b>Administração de Banco de Dados:</b></font>
+
+        Como Administrador de SQL 🎲, tenho um bom entendimento de gerenciamento de banco de dados 📊, o que contribui para a organização e otimização dos dados em meus aplicativos.
+
+        \n\n
+        <font color='#FF0000'><b>Estudos e Aprendizado Contínuo:</b></font>
+
+        Sempre em busca de novos conhecimentos 📚, dedico-me ao aprendizado de novas ferramentas e frameworks, como o Jetpack Compose 💻, para construir aplicativos modernos e responsivos.
+
+        \n\n
+        <font color='#FF0000'><b>Equilíbrio e Produtividade:</b></font>
+
+        Valorizo ambientes tranquilos 🖼️🌿 e busco equilibrar trabalho e lazer ⚖️. Acredito que essa abordagem é essencial para minha produtividade e para um desenvolvimento contínuo e satisfatório 🌟.
+
+        \n\n
+        <font color='#FF0000'><b>Objetivo:</b></font>
+
+        Guiado por um espírito de aprendizado contínuo e melhoria constante, vejo minha trajetória como uma jornada de crescimento pessoal e profissional 🌍✨, com o objetivo de me tornar um desenvolvedor Android cada vez mais completo.
+    </string>
+
+
+
+</resources>
